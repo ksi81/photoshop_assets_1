@@ -4,46 +4,56 @@ font-style: normal;
 }
 
 .main {
-	width:380px;
+	width:377px;
 	height: 530PX;
 	border-color: black;
 	border: 2px solid black;
 }
 .h1 {
-	padding: 0px 30px 0px 30px;
-	text-align: center;
-	font-size: 22px;
+	padding: 0px 0px 0px 0px;
+    margin: 9px;
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 21px;
+    letter-spacing: 1px;
 }
 
 img {
-padding: 0px 70px 0px 70px;
+	padding-left: 65px;
+    width: 251PX;
+    height: 284px;
 
 }
 .p {
-	background-color: #9aba48;
-	width:190px;
-	height: 30PX;
-	font-size: 22px;
-	text-align: center;
-	box-shadow: -3px 3px #9c9c9c; 
-	color: white;
+	    background-color: #9aba48;
+    width: 191px;
+    height: 33PX;
+    font-size: 22px;
+    text-align: center;
+    box-shadow: -3px 3px #9c9c9c;
+    color: white;
+    line-height: 32px;
+    letter-spacing: 1px;
 
 }
 .price {
 	font-size: 31px;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	text-align: center;
+    padding-top: 13px;
+    padding-bottom: 17px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-left: 24px;
 }
 .buy {
-	/*padding-top: 5px;*/
 	line-height: 1.5em;
-	margin-left: 65px;
-	background-color: #e93f33;
-	width: 228px;
-	height: 47PX;
-	font-size: 28px;
-	text-align: center;
-	box-shadow: 0px 3px #791c15; 
-	color: white;
+    margin-left: 63px;
+    background-color: #e93f33;
+    width: 217px;
+    height: 45PX;
+    font-size: 28px;
+    text-align: center;
+    box-shadow: 0px 3px #791c15;
+    color: white;
+    letter-spacing: 1px;
+    padding-left: 13px;
 }
