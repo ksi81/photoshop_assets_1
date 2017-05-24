@@ -1,59 +1,57 @@
-div {
-font-family: Tahoma, sans-serif;
-font-style: normal;
+.wrapper {
+   margin: 0;
+   padding: 0;
+   font-family: Tahoma, sans-serif;
+    font-style: normal;
+    letter-spacing: 1px;
+    width: 375px;
+    height: 526px;
+    border: 2px solid black;
 }
 
-.main {
-	width:377px;
-	height: 530PX;
-	border-color: black;
-	border: 2px solid black;
-}
-.h1 {
-	padding: 0px 0px 0px 0px;
-    margin: 9px;
+h1 {
     text-align: center;
     font-size: 22px;
-    margin-bottom: 21px;
-    letter-spacing: 1px;
+    margin: 9px 24px 21px 26px;
+    font-weight: 100;
 }
 
 img {
 	padding-left: 65px;
-    width: 251PX;
-    height: 284px;
-
+    width: 249PX;
+    height: 286px;
 }
-.p {
-	    background-color: #9aba48;
-    width: 191px;
-    height: 33PX;
+.kredit {
+    background-color: #9aba48;
+    box-shadow: -3px 3px #9c9c9c;
+    border-style: hidden;
+    width: 189px;
+    height: 31PX;
     font-size: 22px;
     text-align: center;
-    box-shadow: -3px 3px #9c9c9c;
     color: white;
-    line-height: 32px;
-    letter-spacing: 1px;
-
+    padding: 0 6px 0 0;
+    line-height: 15px;
 }
 .price {
 	font-size: 31px;
-    padding-top: 13px;
-    padding-bottom: 17px;
     text-align: center;
     letter-spacing: 1px;
-    padding-left: 24px;
+    padding: 14px 0 10px 23px;
 }
+
 .buy {
-	line-height: 1.5em;
-    margin-left: 63px;
     background-color: #e93f33;
-    width: 217px;
-    height: 45PX;
+    box-shadow: 0px 3px #791c15;
+    border-style: hidden;
+    width: 228px;
+    height: 46PX;
+    line-height: 24px;
     font-size: 28px;
     text-align: center;
-    box-shadow: 0px 3px #791c15;
     color: white;
     letter-spacing: 1px;
-    padding-left: 13px;
+    margin: 10px;
+    margin: 7px 7px 0 62px;
+    padding-left: 21px;
 }
